@@ -356,7 +356,7 @@ FULL installations also include the following software:
 
 * **[zeroconf-ioslave](https://archlinux.org/packages/extra/x86_64/zeroconf-ioslave/)**: Adds an entry to Dolphin's Network page to show local services such as printers which advertise themselves with [DNS-SD](http://www.dns-sd.org/).
 
-### LXDE Desktop Environment
+### LXQT Desktop Environment
 
 The following packages are only installed if the user selects the [LXQT desktop environment](https://wiki.archlinux.org/title/LXQt) during the installation process. LXDE (Lightweight X11 Desktop Environment) is an extremely fast-performing and energy-saving desktop environment, featuring a classic interface reminiscent of older Windows versions.
 
