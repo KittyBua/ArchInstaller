@@ -28,6 +28,12 @@ https://github.com/user-attachments/files/34414952/unzip-to-usb-sd.zip
 
 and start the iso and ./install.sh
 
+alternativ
+
+chmod +x install.sh
+
+./install.sh
+
 Ready !
 ```
 
