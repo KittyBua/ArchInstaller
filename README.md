@@ -14,6 +14,8 @@ Download ArchISO from <https://archlinux.org/download/> and put on a USB drive w
 
 From initial Prompt type the following commands:
 
+you can try alternativ usb tethering - Smartphone! 
+
 ```bash
 pacman -Sy git
 git clone https://github.com/khaneliman/archinstaller
