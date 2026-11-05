@@ -115,8 +115,8 @@ display_manager() {
     elif [[ "${DESKTOP_ENV}" == "gnome" ]]; then
         systemctl enable gdm.service
 
-    elif [[ "${DESKTOP_ENV}" == "lxde" ]]; then
-        systemctl enable lxdm.service
+    elif [[ "${DESKTOP_ENV}" == "lxqt" ]]; then
+        systemctl enable lxqm.service
 
     elif [[ "${DESKTOP_ENV}" == "openbox" ]]; then
         systemctl enable lightdm.service
