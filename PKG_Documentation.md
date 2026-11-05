@@ -358,9 +358,9 @@ FULL installations also include the following software:
 
 ### LXDE Desktop Environment
 
-The following packages are only installed if the user selects the [LXDE desktop environment](https://wiki.archlinux.org/title/LXDE) during the installation process. LXDE (Lightweight X11 Desktop Environment) is an extremely fast-performing and energy-saving desktop environment, featuring a classic interface reminiscent of older Windows versions.
+The following packages are only installed if the user selects the [LXDE desktop environment](https://wiki.archlinux.org/title/LXQt) during the installation process. LXDE (Lightweight X11 Desktop Environment) is an extremely fast-performing and energy-saving desktop environment, featuring a classic interface reminiscent of older Windows versions.
 
-* **[lxde](https://archlinux.org/groups/x86_64/lxde/)**: Package group to install the LXDE desktop environment and its core packages.
+* **[lxqt](https://archlinux.org/groups/x86_64/lxqt/)**: Package group to install the LXDE desktop environment and its core packages.
 
 ### MATE Desktop Environment
 
