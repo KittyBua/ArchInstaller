@@ -18,7 +18,7 @@ you can try alternativ usb tethering - Smartphone!
 
 ```bash
 pacman -Sy git
-git clone https://github.com/khaneliman/archinstaller
+git clone https://github.com/KittyBua/ArchInstaller.git
 cd archinstaller
 ./install.sh
 
