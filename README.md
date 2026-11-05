@@ -19,6 +19,16 @@ pacman -Sy git
 git clone https://github.com/khaneliman/archinstaller
 cd archinstaller
 ./install.sh
+
+!!!!!!!!!!!!!!!
+
+or Download the usbsd and unzip direct on ventoy with iso
+
+https://github.com/user-attachments/files/34414952/unzip-to-usb-sd.zip
+
+and start the iso and ./install.sh
+
+Ready !
 ```
 
 ### System Description
