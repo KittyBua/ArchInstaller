@@ -2,7 +2,7 @@
 	"minimal": {
 		"pacman": [
 			{
-				"package": "lxde"
+				"package": "lxqt"
 			}
 		],
 		"aur": []
